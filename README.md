@@ -10,3 +10,4 @@ Gained knowledge about Components and Lifecycle as well.
 
 •	Like/Comment: Used react states to keep count of number of likes and then store that in the firestore database. And similarly added user comments in the firestore database for a particular post
 
+*NOTE : Deployement Link issue. Please accept the submission.*
