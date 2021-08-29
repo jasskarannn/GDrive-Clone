@@ -9,5 +9,4 @@ Gained knowledge about Components and Lifecycle as well.
 •	Add Video: Stores the video uploaded from user to firebase storage. 
 
 •	Like/Comment: Used react states to keep count of number of likes and then store that in the firestore database. And similarly added user comments in the firestore database for a particular post
-![image](https://user-images.githubusercontent.com/59541154/131260610-7abed1d8-2014-4524-9154-41ee43f4e9bb.png)
 
